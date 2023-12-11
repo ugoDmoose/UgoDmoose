@@ -1,4 +1,4 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I aim to build a prosperous future using technology 🖥 <br><br> I'm taking my first steps in the back-end, but I already have professional experience in the front-end. I love discovering and learning new programming languages ​​to add to my work. For now, I am considered a junior-level front-end programmer focused on web development. "For now", as I aim to raise the level as soon as possible.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ugoDmoose&theme=radical&mode=weekly" />
